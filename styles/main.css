@@ -41,7 +41,7 @@ main {
   margin: 20px;
 }
 
-span {
+.span {
   font-size: 15;
   color: red;
 }
