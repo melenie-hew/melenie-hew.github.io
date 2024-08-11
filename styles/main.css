@@ -41,6 +41,17 @@ main {
   margin: 20px;
 }
 
+span {
+  font-size: 15;
+  color: red;
+}
+
+a {
+  color: fuchsia;
+  font-size: 30;
+  font: bold;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   body {
